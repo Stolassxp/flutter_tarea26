@@ -1,10 +1,11 @@
 # flutter_tarea26
 
-A new Flutter project.
+este es mi nuevo proyecto de flutter
 
-## Getting Started
+## creamos una aplicacion por medio de VSC y flluter
 
-This project is a starting point for a Flutter application.
+todo esto siguiendo el ejercicio que muy amablemente nos subio el inge Caxaj
+gracias Inge por su paciencia y tiempo, lo quiero musho
 
 A few resources to get you started if this is your first Flutter project:
 
